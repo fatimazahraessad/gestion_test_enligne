@@ -16,3 +16,8 @@ Thumbs.db
 .idea/
 .vscode/
 *.iml
+backend/target/
+frontend/build/
+node_modules/
+dist/
+*.env
