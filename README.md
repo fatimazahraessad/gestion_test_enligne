@@ -13,35 +13,6 @@
 - **Lucide React** - Icônes
 - **React Hook Form** - Gestion des formulaires
 
-## Structure du projet
-gestion/
-├── backend/                 
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/
-│   │   │   │   └── com/gestiontests/
-│   │   │   │       ├── entity/
-│   │   │   │       ├── repository/
-│   │   │   │       ├── service/
-│   │   │   │       ├── rest/
-│   │   │   │       └── config/
-│   │   │   └── resources/
-│   │   └── test/
-│   ├── pom.xml
-│   └── README.md
-├── frontend/               
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   └── utils/
-│   ├── package.json
-│   └── README.md
-├── database/               # Scripts SQL
-│   ├── schema.sql
-│   └── data.sql
-└── README.md
 ## Fonctionnalités
 
 ### Pour les candidats
