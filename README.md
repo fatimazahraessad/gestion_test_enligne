@@ -69,6 +69,14 @@ L'application utilise Tailwind CSS avec des composants personnalisés définis d
 
 ### Routage
 Le routage est géré par React Router avec des routes protégées pour l'administration.
+##  Vidéo de démonstration de l'application
+
+ **[Voir la vidéo de démonstration](https://drive.google.com/file/d/1BR880qlBrqPq7p6CqqkOTLlYi2PgEE03/view?usp=drive_link)**
+
+Cette vidéo présente :
+- le fonctionnement général de l'application
+- les principales fonctionnalités
+- l’interface utilisateur
 
 
 
